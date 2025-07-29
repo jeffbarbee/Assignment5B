@@ -1,4 +1,4 @@
-# Assignment 5B R
+# Assignment 5A Python
 
 ## First steps
 
@@ -18,7 +18,7 @@ There appears to be many correlations across this data set.
 
 ## Models
 
-The models' accuracy ranges from .95 to .98. The best model for this dataset appears to be the LDA model. This is different from tehe python findings. The KNN is also a solid approach as well.
+The models' accuracy ranges from .93 to .98. The best model for this dataset appears to be the SVM model. It also appears to have the most consistent predictive performance. 
 
 
 
